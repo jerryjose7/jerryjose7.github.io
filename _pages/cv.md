@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+If interested feel free to [download my CV here](https://jerryjose7.github.io/files/Jose_cv_040624.pdf)
+
 Education
 ======
 Ph.D in Envrionmental Science & Technology, École des Ponts ParisTech, Paris (France); 2023 
@@ -27,6 +29,3 @@ Work experience
 2015 - 2017: Ad hoc faculty (NIT, Calicut)
 
 2013 - 2015: Assistant Manager (Dana Holdings, Pune)
-
-  
-If interested feel free to [download my CV here](https://jerryjose7.github.io/files/Jose_cv_040624.pdf)
