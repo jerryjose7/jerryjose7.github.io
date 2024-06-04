@@ -21,6 +21,7 @@ Education
 Work experience
 ======
 - 2023 - 2024: Post doctoral researcher (ENPC, Paris)
+- 2019 - 2023: PhD (ENPC, Paris)
 - 2017 - 2019: Junior research Fellow (IITM, Pune)
 - 2015 - 2017: Ad hoc faculty (NIT, Calicut)
 - 2013 - 2015: Assistant Manager (Dana Holdings, Pune)
