@@ -21,8 +21,8 @@ repository               : "jerryjose7/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  bio              : "Early career scientist: Climate science"
+  avatar           : "profile2.png"
+  bio              : "PhD, Climate science"
   location         : "Paris, France"
   email            : "jerryjose7@gmail.com" 
 
