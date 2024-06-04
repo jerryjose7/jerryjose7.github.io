@@ -14,10 +14,10 @@ Journal Publications (preprint)
 
 1.	Part 1: Multifractal analysis of wind turbine power and the associated biases, 
 Jose, J., Gires, A., Roustan, Y., Schnorenberger, E., Tchiguirinskaia, I., and Schertzer, D.: 
-Nonlin. Processes Geophys. Discuss. [preprint], https://doi.org/10.5194/npg-2024-5, in review, 2024.
+Nonlin. Processes Geophys. Discuss. [preprint], [https://doi.org/10.5194/npg-2024-5](https://doi.org/10.5194/npg-2024-5), in review, 2024.
 
 2.	Part 2: Joint multifractal analysis of available wind power and rain intensity from an operational wind farm; Jose, J., Gires, A., Schnorenberger, E., Roustan, Y., Schertzer, D., and Tchiguirinskaia, I.:
-Nonlin. Processes Geophys. Discuss. [preprint], https://doi.org/10.5194/npg-2024-6, in review, 2024.
+Nonlin. Processes Geophys. Discuss. [preprint], [https://doi.org/10.5194/npg-2024-6](https://doi.org/10.5194/npg-2024-6), in review, 2024.
 
 Journal Publications (published)
 
