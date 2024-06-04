@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an early career scientist in the domain of climate and geophysical research for the past 6+ years. 
-
-My PhD research focused on quantifying extreme variability and intermittency of geophysical fields in real and simulated environments, deriving focus from 3 UN Sustainable Development Goals (SDG) - climate action, sustainable cities and communities, and affordable and clean energy. For this, the symmetries of governing Navier-Stokes equations were statistically reproduced using multiplicative cascades and thus characterizing their scale invariant properties using multifractal tools (Universal Multifractals or UM). 
+I am an early career scientist working in the domain of climate and geophysical research since the past 6+ years. 
 
 My latest assignment was postdoctoral research at CEREA/HM&Co. laboratories of École des Ponts ParisTech, where I worked on scaling and below cloud scavenging of aerosols with rainfall.
+
+My PhD research focused on quantifying extreme variability and intermittency of geophysical fields in real and simulated environments, deriving focus from 3 UN Sustainable Development Goals (SDG) - climate action, sustainable cities and communities, and affordable and clean energy. For this, the symmetries of governing Navier-Stokes equations were statistically reproduced using multiplicative cascades and thus characterizing their scale invariant properties using multifractal tools (Universal Multifractals or UM). 
 
 My current, and previous roles, involves/d skills in data analysis, numerical simulations, scientific writing and reviewing, as well as mentorship and dissemination with peers and public. I serve as a peer reviewer in four journals: Hydrology and Earth System Sciences (EGU Copernicus), Earth Surface Processes and Landforms (Wiley), Hydrological Sciences journal (Taylor & Francis) and Chaos (AIP). I also volunteer as a writer for PARI (People Archive of Rural India) library for delivering facts and factoids on scientific and policy related reports.
 
