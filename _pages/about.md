@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an early career scientist working in the domain of climate and geophysical research since the past 6+ years. 
+Hello! I am an early career scientist working in the domain of climate and geophysical research since the past 6+ years. 
 
 My PhD research focused on quantifying extreme variability and intermittency of geophysical fields in real and simulated environments, deriving focus from 3 UN Sustainable Development Goals (SDG) - climate action, sustainable cities and communities, and affordable and clean energy. For this, the symmetries of governing Navier-Stokes equations were statistically reproduced using multiplicative cascades and thus characterizing their scale invariant properties using multifractal tools (Universal Multifractals or UM). Towards this following fields were studied individualy and jointly with each other: rainfall, kinetic energy, extinction coefficient, wind, wind power, temperature, pressure, air density and relative humidity.
 
