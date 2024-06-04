@@ -12,11 +12,6 @@ Independent and joint multifractal characterization of atmospheric variability i
 
 
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-
 Journal Publications (preprint)
 
 1.	Part 1: Multifractal analysis of wind turbine power and the associated biases, 
@@ -75,3 +70,8 @@ EGU General Assembly Confer Abstract 994, 7765
 8.	Variation of Aerosol Chemistry with Strengthening of South West Monsoon Using Individual Particle Analysis: A Case Study with Airborne Samples.
 J Jose, M Varghese, S Thomas, N Kalarikkal, T Prabhakaran
 Geophysical Research Abstracts 21
+
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
