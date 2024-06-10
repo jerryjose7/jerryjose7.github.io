@@ -7,7 +7,12 @@ author_profile: true
 
 PhD Thesis
 
-Independent and joint multifractal characterization of atmospheric variability in real and controlled environments , École des Ponts ParisTech, 2023. 
+Independent and joint multifractal characterization of atmospheric variability in real and controlled environments , École des Ponts ParisTech, 2023.
+
+[Thesis self hosted](https://jerryjose7.github.io/files/Jerry_thesis_final.pdf)
+
+HAL link :
+
 [https://pastel.hal.science/tel-04206544](https://pastel.hal.science/tel-04206544)
 
 
