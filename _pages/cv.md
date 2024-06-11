@@ -13,7 +13,7 @@ If interested feel free to [download my CV here](https://jerryjose7.github.io/fi
 
 Education
 ======
-- Ph.D in Envrionmental Science & Technology, École des Ponts ParisTech, Paris (France); 2023 
+<i class="fa-solid fa-graduation-cap"></i>  Ph.D in Envrionmental Science & Technology, École des Ponts ParisTech, Paris (France); 2023 
 - M.Tech. in Materials Sciences, DIAT, DRDO, Pune (India); 2013
 - B.Tech. in MACE, Kothamangalam (India), 2010
 
