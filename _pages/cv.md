@@ -13,9 +13,9 @@ If interested feel free to [download my CV here](https://jerryjose7.github.io/fi
 
 Education
 ======
-<i class="fa-solid fa-graduation-cap"></i>  Ph.D in Envrionmental Science & Technology, École des Ponts ParisTech, Paris (France); 2023  
-<i class="fa-solid fa-graduation-cap"></i>  M.Tech. in Materials Sciences, DIAT, DRDO, Pune (India); 2013  
-<i class="fa-solid fa-graduation-cap"></i>  B.Tech. in MACE, Kothamangalam (India), 2010
+item 1 <i class="fa-solid fa-graduation-cap"></i>  Ph.D in Envrionmental Science & Technology, École des Ponts ParisTech, Paris (France); 2023  
+item 1 <i class="fa-solid fa-graduation-cap"></i>  M.Tech. in Materials Sciences, DIAT, DRDO, Pune (India); 2013  
+item 1 <i class="fa-solid fa-graduation-cap"></i>  B.Tech. in MACE, Kothamangalam (India), 2010
 
 
 Work experience

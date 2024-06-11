@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<i class="fa-solid fa-folder-arrow-down"></i> <ins>PhD Thesis<ins>
+<ins><i class="fa-solid fa-book"></i> PhD Thesis<ins>
 
 Independent and joint multifractal characterization of atmospheric variability in real and controlled environments , École des Ponts ParisTech, 2023.
 
@@ -14,7 +14,7 @@ HAL link : [https://pastel.hal.science/tel-04206544](https://pastel.hal.science/
 
 
 
-<i class="fa-solid fa-file-lines"></i> <ins>Journal Publications (preprint)<ins>
+<ins><i class="fa-solid fa-file-lines"></i> Journal Publications (preprint)<ins>
 
 1.	Part 1: Multifractal analysis of wind turbine power and the associated biases, 
 Jose, J., Gires, A., Roustan, Y., Schnorenberger, E., Tchiguirinskaia, I., and Schertzer, D.: 
@@ -23,7 +23,7 @@ Nonlin. Processes Geophys. Discuss. [preprint], [https://doi.org/10.5194/npg-202
 2.	Part 2: Joint multifractal analysis of available wind power and rain intensity from an operational wind farm; Jose, J., Gires, A., Schnorenberger, E., Roustan, Y., Schertzer, D., and Tchiguirinskaia, I.:
 Nonlin. Processes Geophys. Discuss. [preprint], [https://doi.org/10.5194/npg-2024-6](https://doi.org/10.5194/npg-2024-6), in review, 2024.
 
-<i class="fa-solid fa-file-lines"></i> <ins>Journal Publications (published)<ins>
+<ins><i class="fa-solid fa-file-lines"></i> Journal Publications (published)<ins>
 
 3.	Scale invariant relationship between rainfall kinetic energy and intensity in Paris region: An evaluation using universal multifractal framework (2022), J Jose, A Gires, I Tchiguirinskaia, Y Roustan, D Schertzer, Journal of Hydrology 609, 127715 [https://doi.org/10.1016/j.jhydrol.2022.127715](https://doi.org/10.1016/j.jhydrol.2022.127715)
 
@@ -39,7 +39,7 @@ M Varghese, N Malap, M Konwar, S Bera, J Jose, SP Bankar, ... Atmospheric Resear
 8.	Cloud and aerosol characteristics during dry and wet days of southwest monsoon over the rain shadow region of Western Ghats, India (2022);M Varghese, J Jose, AS Anu, P Murugavel, EA Resmi, S Bera, S Thomas, ...Meteorology and Atmospheric Physics 133 (4), 1299-1316 [https://doi.org/10.1007/s00703-021-00811-3](https://doi.org/10.1007/s00703-021-00811-3)
 
 
-<ins>Conference Publications<ins>
+<ins><i class="fa-solid fa-file-lines"></i> Conference Publications<ins>
 
 1.	Joint multifratcal analysis of available wind power and rain intensity from an operational wind farm
 J Jose, A Gires, E Schnorenberger, I Tchiguirinskaia, D Schertzer
