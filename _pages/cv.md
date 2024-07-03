@@ -25,3 +25,9 @@ Work experience
 <i class="fa-solid fa-magnifying-glass-chart"></i> 2017 - 2019: Junior research Fellow (IITM, Pune)  
 <i class="fa-solid fa-person-chalkboard"></i> 2015 - 2017: Ad hoc faculty (NIT, Calicut)  
 <i class="fa-solid fa-briefcase"></i> 2013 - 2015: Assistant Manager (Dana Holdings, Pune)
+
+Skills
+======
+<i class="fa-solid fa-square-code"></i> Python (scipy, numpy, pandas, seaborn, matplotlib, scikit-learn)  
+<i class="fa-solid fa-square-terminal"></i> Linux bash scripting, git  
+<i class="fa-solid fa-laptop-binary"></i> Linux, mac, microsoft  
