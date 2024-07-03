@@ -28,6 +28,7 @@ Work experience
 
 Skills
 ======
+<i class="fa-solid fa-magnifying-glass-chart"></i> Python (scipy, numpy, pandas, seaborn, matplotlib, scikit-learn)  
 <i class="fa-solid fa-square-code"></i> Python (scipy, numpy, pandas, seaborn, matplotlib, scikit-learn)  
 <i class="fa-solid fa-square-terminal"></i> Linux bash scripting, git  
 <i class="fa-solid fa-laptop-binary"></i> Linux, mac, microsoft  
