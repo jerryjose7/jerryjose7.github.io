@@ -28,6 +28,6 @@ Work experience
 
 Skills
 ======
-<i class="fa-solid fa-code"></i> Python (scipy, numpy, pandas, seaborn, matplotlib, scikit-learn), Linux bash scripting, Git  
+<i class="fa-solid fa-code"></i> Python (scipy, numpy, pandas, seaborn, matplotlib, scikit-learn..), Linux bash scripting, Git  
 <i class="fa-solid fa-gears"></i> LaTex, QGIS, AutoCAD  
 <i class="fa-solid fa-window-restore"></i> Linux, mac, microsoft  
