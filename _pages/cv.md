@@ -26,8 +26,9 @@ Work experience
 <i class="fa-solid fa-person-chalkboard"></i> 2015 - 2017: Ad hoc faculty (NIT, Calicut)  
 <i class="fa-solid fa-briefcase"></i> 2013 - 2015: Assistant Manager (Dana Holdings, Pune)
 
+
 Skills
 ======
-<i class="fa-solid fa-code"></i> Python (scipy, numpy, pandas, seaborn, matplotlib, scikit-learn..), Linux bash scripting, Git  
+<i class="fa-solid fa-code"></i> Python, Linux bash scripting, Git  
 <i class="fa-solid fa-gears"></i> LaTex, QGIS, AutoCAD  
 <i class="fa-solid fa-window-restore"></i> Linux, mac, microsoft  
