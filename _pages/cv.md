@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-If interested feel free to [download my CV here](https://jerryjose7.github.io/files/Jose_cv_040624.pdf)
+If interested feel free to [download my CV here](https://jerryjose7.github.io/files/JJose_CV.pdf)
 
 Education
 ======
-<i class="fa-solid fa-graduation-cap"></i>  Ph.D, École des Ponts ParisTech, Paris (France); 2023  
+<i class="fa-solid fa-graduation-cap"></i>  Ph.D, École nationale des ponts et chaussées, Paris (France); 2023  
 <i class="fa-solid fa-graduation-cap"></i>  M.Tech. in Materials Sciences, DIAT, DRDO, Pune (India); 2013  
 <i class="fa-solid fa-graduation-cap"></i>  B.Tech. in MACE, Kothamangalam (India), 2010
 
