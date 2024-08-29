@@ -32,3 +32,12 @@ Skills
 <i class="fa-solid fa-code"></i> Python, Linux bash scripting, Git  
 <i class="fa-solid fa-gears"></i> LaTex, QGIS, AutoCAD  
 <i class="fa-solid fa-window-restore"></i> Linux, mac, microsoft  
+
+
+<embed
+	src="[document.pdf](https://jerryjose7.github.io/files/JJose_CV.pdf)"
+	type="application/pdf"
+	width="100%"
+	height="100%"
+	title="Embedded PDF Viewer"
+/>
