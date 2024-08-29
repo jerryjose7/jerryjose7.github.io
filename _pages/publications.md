@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
+
 <ins> PhD Thesis<ins>
 
 Independent and joint multifractal characterization of atmospheric variability in real and controlled environments , École des Ponts ParisTech, 2023.
