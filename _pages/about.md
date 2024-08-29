@@ -15,6 +15,6 @@ My latest assignment was postdoctoral research at CEREA/HM&Co. laboratories of Ã
 
 My current, and previous roles, involves/d skills in data analysis, numerical simulations, scientific writing and reviewing, as well as mentorship and dissemination with peers and public. 
 
-[I serve as a peer reviewer in four journals: Hydrology and Earth System Sciences (EGU Copernicus), Earth Surface Processes and Landforms (Wiley), Hydrological Sciences journal (Taylor & Francis) and Chaos (AIP). I also volunteer as a writer for PARI (People Archive of Rural India) library for delivering facts and factoids on scientific and policy related reports.]: #
+<!-- I serve as a peer reviewer in four journals: Hydrology and Earth System Sciences (EGU Copernicus), Earth Surface Processes and Landforms (Wiley), Hydrological Sciences journal (Taylor & Francis) and Chaos (AIP). I also volunteer as a writer for PARI (People Archive of Rural India) library for delivering facts and factoids on scientific and policy related reports.-->
 
 Outside of academics, I enjoy reading, hiking, skating, badmintion and traveling among many other things. Cheers!
