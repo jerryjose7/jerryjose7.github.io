@@ -11,7 +11,7 @@ redirect_from:
 
 If interested feel free to [download my CV here](https://jerryjose7.github.io/files/JJose_CV.pdf)
 
-<ins> Education <ins>
+## Education 
 
 <!-- ====== -->
 <i class="fa-solid fa-graduation-cap"></i>  Ph.D, École nationale des ponts et chaussées, Paris (France); 2023  
@@ -28,8 +28,8 @@ If interested feel free to [download my CV here](https://jerryjose7.github.io/fi
 <i class="fa-solid fa-briefcase"></i> 2013 - 2015: Assistant Manager (Dana Holdings, Pune)
 
 
-Skills
-======
+## Skills
+
 <i class="fa-solid fa-code"></i> Python, Linux bash scripting, Git  
 <i class="fa-solid fa-gears"></i> LaTex, QGIS, AutoCAD  
 <i class="fa-solid fa-window-restore"></i> Linux, mac, microsoft  
