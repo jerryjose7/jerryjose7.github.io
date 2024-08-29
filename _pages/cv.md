@@ -19,8 +19,8 @@ If interested feel free to [download my CV here](https://jerryjose7.github.io/fi
 <i class="fa-solid fa-graduation-cap"></i>  B.Tech. in MACE, Kothamangalam (India), 2010
 
 
-Work experience
-======
+## Work experience
+
 <i class="fa-solid fa-magnifying-glass-chart"></i> 2023 - 2024: Post doctoral researcher (ENPC, Paris)  
 <i class="fa-solid fa-book"></i> 2019 - 2023: PhD in Envrionmental Science & Technology (ENPC, Paris)  
 <i class="fa-solid fa-magnifying-glass-chart"></i> 2017 - 2019: Junior research Fellow (IITM, Pune)  
