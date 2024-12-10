@@ -17,26 +17,26 @@ HAL link : [https://pastel.hal.science/tel-04206544](https://pastel.hal.science/
 
 <ins> Journal Publications (published)<ins>
 
-1.	Multifractal analysis of wind turbine power and rainfall from an operational wind farm – Part 1: Wind turbine power and the associated biases, 
+1.	Multifractal analysis of wind turbine power and rainfall from an operational wind farm – Part 1: Wind turbine power and the associated biases (2024), 
 Jose, J., Gires, A., Roustan, Y., Schnorenberger, E., Tchiguirinskaia, I., and Schertzer, D.: 
 Nonlin. Processes Geophys., 31, 587–602, [doi.org/10.5194/npg-31-587-2024](https://doi.org/10.5194/npg-31-587-2024), 2024.
 
-2.	Multifractal analysis of wind turbine power and rainfall from an operational wind farm – Part 2: Joint analysis of available wind power and rain intensity, 
-Nonlin. Processes Geophys., 31, 603–624, https://doi.org/10.5194/npg-31-603-2024; Jose, J., Gires, A., Schnorenberger, E., Roustan, Y., Schertzer, D., and Tchiguirinskaia, I.:
-Nonlin. Processes Geophys. Discuss. [doi.org/10.5194/npg-31-603-2024](https://doi.org/10.5194/npg-31-603-2024), 2024.
+2.	Multifractal analysis of wind turbine power and rainfall from an operational wind farm – Part 2: Joint analysis of available wind power and rain intensity (2024), 
+Jose, J., Gires, A., Schnorenberger, E., Roustan, Y., Schertzer, D., and Tchiguirinskaia, I.:
+Nonlin. Processes Geophys., 31, 603–624, [doi.org/10.5194/npg-31-603-2024](https://doi.org/10.5194/npg-31-603-2024), 2024.
 
 3.	Scale invariant relationship between rainfall kinetic energy and intensity in Paris region: An evaluation using universal multifractal framework (2022), J Jose, A Gires, I Tchiguirinskaia, Y Roustan, D Schertzer, Journal of Hydrology 609, 127715 [https://doi.org/10.1016/j.jhydrol.2022.127715](https://doi.org/10.1016/j.jhydrol.2022.127715)
 
-4.	Combined high-resolution rainfall and wind data collected for 3 months on a wind farm 110 km southeast of Paris (France) (2022) A Gires, J Jose, I Tchiguirinskaia, D Schertzer, Earth System Science Data 14 (8), 3807-3819 [https://doi.org/10.5194/essd-14-3807-2022](https://doi.org/10.5194/essd-14-3807-2022)
+4.	Combined high-resolution rainfall and wind data collected for 3 months on a wind farm 110 km southeast of Paris (France) (2022), A Gires, J Jose, I Tchiguirinskaia, D Schertzer, Earth System Science Data 14 (8), 3807-3819 [https://doi.org/10.5194/essd-14-3807-2022](https://doi.org/10.5194/essd-14-3807-2022)
 
-5.	CAIPEEX: Indian Cloud Seeding Scientific Experiment (2023); Thara V Prabhakaran, Mercy Varghese, Mahen Konwar, Jerry Jose….Bulletin of the American Meteorological Society 104, 11 [https://doi.org/10.1175/BAMS-D-21-0291.1](https://doi.org/10.1175/BAMS-D-21-0291.1)
+5.	CAIPEEX: Indian Cloud Seeding Scientific Experiment (2023), Thara V Prabhakaran, Mercy Varghese, Mahen Konwar, Jerry Jose….Bulletin of the American Meteorological Society 104, 11 [https://doi.org/10.1175/BAMS-D-21-0291.1](https://doi.org/10.1175/BAMS-D-21-0291.1)
 
-6.	Impact of monsoon on below cloud base aerosol hygroscopicity over a rain shadow region of India (2023
+6.	Impact of monsoon on below cloud base aerosol hygroscopicity over a rain shadow region of India (2023);
 M Varghese, N Malap, M Konwar, S Bera, J Jose, SP Bankar, ... Atmospheric Research 285, 106630 [https://doi.org/10.1016/j.atmosres.2023.106630](https://doi.org/10.1016/j.atmosres.2023.106630)
 
-7.	Vertical profile of aerosol characteristics including activation over a rain shadow region in India (2022); M Varghese, J Jose, AS Anu, M Konwar, P Murugavel, N Kalarikkal, ...Atmospheric Environment 262, 118653 [https://doi.org/10.1016/j.atmosenv.2021.118653](https://doi.org/10.1016/j.atmosenv.2021.118653)
+7.	Vertical profile of aerosol characteristics including activation over a rain shadow region in India (2022), M Varghese, J Jose, AS Anu, M Konwar, P Murugavel, N Kalarikkal, ...Atmospheric Environment 262, 118653 [https://doi.org/10.1016/j.atmosenv.2021.118653](https://doi.org/10.1016/j.atmosenv.2021.118653)
 
-8.	Cloud and aerosol characteristics during dry and wet days of southwest monsoon over the rain shadow region of Western Ghats, India (2022);M Varghese, J Jose, AS Anu, P Murugavel, EA Resmi, S Bera, S Thomas, ...Meteorology and Atmospheric Physics 133 (4), 1299-1316 [https://doi.org/10.1007/s00703-021-00811-3](https://doi.org/10.1007/s00703-021-00811-3)
+8.	Cloud and aerosol characteristics during dry and wet days of southwest monsoon over the rain shadow region of Western Ghats, India (2022), M Varghese, J Jose, AS Anu, P Murugavel, EA Resmi, S Bera, S Thomas, ...Meteorology and Atmospheric Physics 133 (4), 1299-1316 [https://doi.org/10.1007/s00703-021-00811-3](https://doi.org/10.1007/s00703-021-00811-3)
 
 
 <ins> Conference Publications<ins>
