@@ -15,7 +15,7 @@ HAL link : [https://pastel.hal.science/tel-04206544](https://pastel.hal.science/
 
 
 
-<ins> Journal Publications (preprint)<ins>
+<ins> Journal Publications (published)<ins>
 
 1.	Multifractal analysis of wind turbine power and rainfall from an operational wind farm – Part 1: Wind turbine power and the associated biases, 
 Jose, J., Gires, A., Roustan, Y., Schnorenberger, E., Tchiguirinskaia, I., and Schertzer, D.: 
@@ -24,8 +24,6 @@ Nonlin. Processes Geophys., 31, 587–602, [doi.org/10.5194/npg-31-587-2024](htt
 2.	Multifractal analysis of wind turbine power and rainfall from an operational wind farm – Part 2: Joint analysis of available wind power and rain intensity, 
 Nonlin. Processes Geophys., 31, 603–624, https://doi.org/10.5194/npg-31-603-2024; Jose, J., Gires, A., Schnorenberger, E., Roustan, Y., Schertzer, D., and Tchiguirinskaia, I.:
 Nonlin. Processes Geophys. Discuss. [doi.org/10.5194/npg-31-603-2024](https://doi.org/10.5194/npg-31-603-2024), 2024.
-
-<ins> Journal Publications (published)<ins>
 
 3.	Scale invariant relationship between rainfall kinetic energy and intensity in Paris region: An evaluation using universal multifractal framework (2022), J Jose, A Gires, I Tchiguirinskaia, Y Roustan, D Schertzer, Journal of Hydrology 609, 127715 [https://doi.org/10.1016/j.jhydrol.2022.127715](https://doi.org/10.1016/j.jhydrol.2022.127715)
 
