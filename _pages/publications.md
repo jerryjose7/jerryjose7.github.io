@@ -19,11 +19,11 @@ HAL link : [https://pastel.hal.science/tel-04206544](https://pastel.hal.science/
 
 1.	Multifractal analysis of wind turbine power and rainfall from an operational wind farm – Part 1: Wind turbine power and the associated biases (2024), 
 Jose, J., Gires, A., Roustan, Y., Schnorenberger, E., Tchiguirinskaia, I., and Schertzer, D.: 
-Nonlin. Processes Geophys., 31, 587–602, [doi.org/10.5194/npg-31-587-2024](https://doi.org/10.5194/npg-31-587-2024), 2024.
+Nonlin. Processes Geophys., 31, 587–602, [doi.org/10.5194/npg-31-587-2024](https://doi.org/10.5194/npg-31-587-2024)
 
 2.	Multifractal analysis of wind turbine power and rainfall from an operational wind farm – Part 2: Joint analysis of available wind power and rain intensity (2024), 
 Jose, J., Gires, A., Schnorenberger, E., Roustan, Y., Schertzer, D., and Tchiguirinskaia, I.:
-Nonlin. Processes Geophys., 31, 603–624, [doi.org/10.5194/npg-31-603-2024](https://doi.org/10.5194/npg-31-603-2024), 2024.
+Nonlin. Processes Geophys., 31, 603–624, [doi.org/10.5194/npg-31-603-2024](https://doi.org/10.5194/npg-31-603-2024)
 
 3.	Scale invariant relationship between rainfall kinetic energy and intensity in Paris region: An evaluation using universal multifractal framework (2022), J Jose, A Gires, I Tchiguirinskaia, Y Roustan, D Schertzer, Journal of Hydrology 609, 127715 [https://doi.org/10.1016/j.jhydrol.2022.127715](https://doi.org/10.1016/j.jhydrol.2022.127715)
 
@@ -41,37 +41,62 @@ M Varghese, N Malap, M Konwar, S Bera, J Jose, SP Bankar, ... Atmospheric Resear
 
 <ins> Conference Publications<ins>
 
-1.	Joint multifratcal analysis of available wind power and rain intensity from an operational wind farm
-J Jose, A Gires, E Schnorenberger, I Tchiguirinskaia, D Schertzer
-EGU23
 
-2.	Multi-scale comparison of rainfall measurement with the help of a disdrometer and a mini vertically pointing Doppler radar
+1. Multifractal correlation of rainfall and wind fields and consequences on wind power production
+A Gires, J Jose, A Garcia-Gago, I Tchiguirinskaia, and D Schertzer
+EGU24
+[https://doi.org/10.5194/egusphere-egu24-11382](https://doi.org/10.5194/egusphere-egu24-11382)
+
+2. Multifractal analysis of aerosol particle concentration during rain and dry conditions in nm and µm range
+J Jose, A Gires, Y Roustan, I Tchiguirinskaia, and D Schertzer
+EGU General Assembly 2024
+[https://doi.org/10.5194/egusphere-egu24-17721](https://doi.org/10.5194/egusphere-egu24-17721)
+
+3. Multi-scale comparison of rainfall measurement in Paris area between two optical disdrometers of different working principles
+MMS de Souza, A Gires, J Jose
+EGU General Assembly 2024
+[https://doi.org/10.5194/egusphere-egu24-651](https://doi.org/10.5194/egusphere-egu24-651)
+
+4. Small scales space-time variability of rainfall and wind fields and its impact on wind power production
+A Gires, J Jose, A Garcia-Gago, I Tchiguirinskaia, and D Schertzer
+AGU Fall Meeting Abstracts. Vol. 2023. No. 629. 2023.
+[https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1411887](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1411887)
+
+2. Joint multifratcal analysis of available wind power and rain intensity from an operational wind farm
+J Jose, A Gires, E Schnorenberger, I Tchiguirinskaia, D Schertzer
+EGU General Assembly Conference Abstracts, EGU-7495, 2023
+[https://doi.org/10.5194/egusphere-egu23-7495](https://doi.org/10.5194/egusphere-egu23-7495)
+
+3.	Multi-scale comparison of rainfall measurement with the help of a disdrometer and a mini vertically pointing Doppler radar
 MS Silva, RVC Monteiro, J Jose, A Gires, I Tchiguirinskaia, D Schertzer
-EGU23
+EGU General Assembly Conference Abstracts, EGU-706, 2023
+[https://doi.org/10.5194/egusphere-egu23-706](https://doi.org/10.5194/egusphere-egu23-706)
 
-3.	Combined multifractal analysis of wind power production and atmospheric fields using simultaneous measurement of high-resolution data
+4.	Combined multifractal analysis of wind power production and atmospheric fields using simultaneous measurement of high-resolution data
 J Jose, A Gires, E Schnorenberger, I Tchiguirinskaia, D Schertzer
-EGU General Assembly Conference Abstracts, EGU22-6858
+EGU General Assembly Conference Abstracts, EGU22-6858, 2022
+[https://doi.org/10.5194/egusphere-egu22-6858](https://doi.org/10.5194/egusphere-egu22-6858)
 
-4.	Influence of lower threshold on empirical data in estimation of multifractal parameters (using atmospheric extinction coefficient as the field of study)
+5.	Influence of lower threshold on empirical data in estimation of multifractal parameters (using atmospheric extinction coefficient as the field of study)
 J Jose, A Gires, I Tchiguirinskaia, D Schertzer
-AGU Fall Meeting Abstracts 2021, NG45C-0591
+AGU Fall Meeting Abstracts 2021, NG45C-0591, 2021
+[https://enpc.hal.science/hal-04580214/](https://enpc.hal.science/hal-04580214/)
 
-5.	Application of universal multifractal framework in estimating a new scale invariant power law relation between kinetic energy and intensity of rainfall
+6.	Application of universal multifractal framework in estimating a new scale invariant power law relation between kinetic energy and intensity of rainfall
 J Jose, A Gires, D Schertzer, Y Roustan, A Ruas, I Tchiguirinskaia
-NSCCT20-International joint meeting on recent advances in nonlinear science
+NSCCT20-International joint meeting on recent advances in nonlinear science, 2021
 
-6.	Multifractal analysis of extinction coefficient and its consequences in characterizing atmospheric visibility
+7.	Multifractal analysis of extinction coefficient and its consequences in characterizing atmospheric visibility
 J Jose, A Gires, I Tchiguirinskaia, D Schertzer
-EGU General Assembly Conference Abstracts, EGU21-11242
+EGU General Assembly Conference Abstracts, EGU21-11242, 2021
 
-7.	Variability in Rainfall and Kinetic Energy across scales of measurement: evaluation using disdrometers in Paris region
+8.	Variability in Rainfall and Kinetic Energy across scales of measurement: evaluation using disdrometers in Paris region
 J Jose, A Gires, D Schertzer, Y Roustan, A Ruas, I Tchiguirinskaia
-EGU General Assembly Confer Abstract 994, 7765
+EGU General Assembly Confer Abstract 994, 7765, 2020
 
-8.	Variation of Aerosol Chemistry with Strengthening of South West Monsoon Using Individual Particle Analysis: A Case Study with Airborne Samples.
+9.	Variation of Aerosol Chemistry with Strengthening of South West Monsoon Using Individual Particle Analysis: A Case Study with Airborne Samples.
 J Jose, M Varghese, S Thomas, N Kalarikkal, T Prabhakaran
-Geophysical Research Abstracts 21
+Geophysical Research Abstracts 21, 2019
 
 
 {% if site.author.googlescholar %}
