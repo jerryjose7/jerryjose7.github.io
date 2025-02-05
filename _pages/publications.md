@@ -39,6 +39,14 @@ M Varghese, N Malap, M Konwar, S Bera, J Jose, SP Bankar, ... Atmospheric Resear
 8.	Cloud and aerosol characteristics during dry and wet days of southwest monsoon over the rain shadow region of Western Ghats, India (2022), M Varghese, J Jose, AS Anu, P Murugavel, EA Resmi, S Bera, S Thomas, ...Meteorology and Atmospheric Physics 133 (4), 1299-1316 [https://doi.org/10.1007/s00703-021-00811-3](https://doi.org/10.1007/s00703-021-00811-3)
 
 
+<ins> Peer reviewer at <ins>
+
+- Hydrology and Earth System Sciences
+- Earth Surface Processes
+- Hydrological Sciences Journal, 
+- Chaos
+
+
 <ins> Conference Publications<ins>
 
 
