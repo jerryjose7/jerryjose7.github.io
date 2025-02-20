@@ -3,7 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-Thesis : [self hosted](https://jerryjose7.github.io/files/Jerry_thesis_final.pdf)
 ---
 
 
@@ -117,3 +116,5 @@ J Jose, M Varghese, P Murugavel, S Bera, S Nair, Anu A S, M Konwar, Resmi EA, Na
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+
+[](Thesis : [self hosted](https://jerryjose7.github.io/files/Jerry_thesis_final.pdf))
