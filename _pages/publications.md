@@ -10,9 +10,8 @@ author_profile: true
 
 Independent and joint multifractal characterization of atmospheric variability in real and controlled environments , École nationale des ponts et chaussées (ENPC), 2023.
 
-<i class="fa-solid fa-book"></i> Thesis : [self hosted](https://jerryjose7.github.io/files/Jerry_thesis_final.pdf)  
+[](<i class="fa-solid fa-book"></i> Thesis : [self hosted](https://jerryjose7.github.io/files/Jerry_thesis_final.pdf))
 HAL link : [https://pastel.hal.science/tel-04206544](https://pastel.hal.science/tel-04206544)
-
 
 
 <ins> Journal Publications (published)<ins>
