@@ -39,10 +39,7 @@ M Varghese, N Malap, M Konwar, S Bera, J Jose, SP Bankar, ... Atmospheric Resear
 
 <ins> Peer reviewer at <ins>
 
-- Hydrology and Earth System Sciences
-- Earth Surface Processes
-- Hydrological Sciences Journal, 
-- Chaos
+- Journal of Hydrology, Hydrology and Earth System Sciences, Earth Surface Processes, Hydrological Sciences Journal, Chaos
 
 
 <ins> Conference Publications<ins>
