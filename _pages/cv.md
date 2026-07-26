@@ -19,10 +19,10 @@ If interested feel free to [download my CV here](https://jerryjose7.github.io/fi
 
 ## Work experience
 <i class="fa-solid fa-magnifying-glass-chart"></i> 2025 - present: Senior Scientist (Greenpeace International)  
-<i class="fa-solid fa-magnifying-glass-chart"></i> 2025 - present: Honoraray Research Fellow (University of Exeter)  
+<i class="fa-solid fa-magnifying-glass-chart"></i> 2025 - present: Honoraray Research Fellow (University, Exeter)  
 <i class="fa-solid fa-magnifying-glass-chart"></i> 2023 - 2024: Post doctoral researcher (ENPC, Paris)  
 <i class="fa-solid fa-book"></i> 2019 - 2023: PhD in Envrionmental Science & Technology (ENPC, Paris)  
-<i class="fa-solid fa-magnifying-glass-chart"></i> 2017 - 2019: Junior research Fellow (IITM, Pune)  
+<i class="fa-solid fa-magnifying-glass-chart"></i> 2017 - 2019: Junior research Fellow (IITM/IIUCNN, Pune, Kottayam)  
 <i class="fa-solid fa-person-chalkboard"></i> 2015 - 2017: Ad hoc faculty (NIT, Calicut)  
 <i class="fa-solid fa-briefcase"></i> 2013 - 2015: Assistant Manager (Dana Holdings, Pune)
 
