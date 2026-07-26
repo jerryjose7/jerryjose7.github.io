@@ -46,6 +46,10 @@ M Varghese, N Malap, M Konwar, S Bera, J Jose, SP Bankar, ... Atmospheric Resear
 
 <ins> Conference Publications<ins>
 
+1. Beyond Silos: An integrated sustainability framework ; M Wang, D Santillo, J Jose; Exeter Climate Conference 2026
+
+1. Challenges in governance of climate interventions: Perspectives from the London Convention - London Protocol's (LC-LP) approach to governance of marine geoengineering; D Santillo, J Jose, C Mugnai;
+Exeter Climate Conference 2026
 
 1. Multifractal correlation of rainfall and wind fields and consequences on wind power production;
 A Gires, J Jose, A Garcia-Gago, I Tchiguirinskaia, and D Schertzer;
