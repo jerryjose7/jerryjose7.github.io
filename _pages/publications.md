@@ -15,8 +15,7 @@ Independent and joint multifractal characterization of atmospheric variability i
 
 <ins> Journal Publications (published)<ins>
 
-1. Mateus Seppe Silva, Rodrigo Vieira Casanova Monteiro, Jerry Jose, Auguste
-Gires, Igor Paz, Ioulia Tchiguirinskaia & Daniel Schertzer (17 Mar 2025): Multifractal comparison of rainfall measurement with the help of a disdrometer and a mini vertically pointing Doppler radar, Hydrological Sciences Journal, [DOI: 10.1080/02626667.2025.2464948](https://doi.org/10.1080/02626667.2025.2464948)
+1. Multifractal comparison of rainfall measurement with the help of a disdrometer and a mini vertically pointing Doppler radar, Silva, M.S., Monteiro, R.V.C., Jose, J., Gires, A., Paz, I., Tchiguirinskaia, I. and Schertzer, D., 2025. Hydrological Sciences Journal, [DOI: 10.1080/02626667.2025.2464948](https://doi.org/10.1080/02626667.2025.2464948)
 
 1.	Multifractal analysis of wind turbine power and rainfall from an operational wind farm – Part 1: Wind turbine power and the associated biases (2024), 
 Jose, J., Gires, A., Roustan, Y., Schnorenberger, E., Tchiguirinskaia, I., and Schertzer, D.: 
@@ -30,7 +29,7 @@ Nonlin. Processes Geophys., 31, 603–624, [doi.org/10.5194/npg-31-603-2024](htt
 
 1.	Combined high-resolution rainfall and wind data collected for 3 months on a wind farm 110 km southeast of Paris (France) (2022), A Gires, J Jose, I Tchiguirinskaia, D Schertzer, Earth System Science Data 14 (8), 3807-3819 [https://doi.org/10.5194/essd-14-3807-2022](https://doi.org/10.5194/essd-14-3807-2022)
 
-1.	CAIPEEX: Indian Cloud Seeding Scientific Experiment (2023), Thara V Prabhakaran, Mercy Varghese, Mahen Konwar, Jerry Jose….Bulletin of the American Meteorological Society 104, 11 [https://doi.org/10.1175/BAMS-D-21-0291.1](https://doi.org/10.1175/BAMS-D-21-0291.1)
+1.	CAIPEEX: Indian Cloud Seeding Scientific Experiment (2023), Prabhakaran, M Varghese, M Konwar, J Jose….Bulletin of the American Meteorological Society 104, 11 [https://doi.org/10.1175/BAMS-D-21-0291.1](https://doi.org/10.1175/BAMS-D-21-0291.1)
 
 1.	Impact of monsoon on below cloud base aerosol hygroscopicity over a rain shadow region of India (2023);
 M Varghese, N Malap, M Konwar, S Bera, J Jose, SP Bankar, ... Atmospheric Research 285, 106630 [https://doi.org/10.1016/j.atmosres.2023.106630](https://doi.org/10.1016/j.atmosres.2023.106630)
@@ -42,7 +41,7 @@ M Varghese, N Malap, M Konwar, S Bera, J Jose, SP Bankar, ... Atmospheric Resear
 
 <ins> Peer reviewer at <ins>
 
-- Journal of Hydrology, Hydrology and Earth System Sciences, Earth Surface Processes and Landforms, Hydrological Sciences Journal, Chaos: An Interdisciplinary Journal of Nonlinear Science
+- Journal of Hydrology, Hydrology and Earth System Sciences, Earth Surface Processes and Landforms, Hydrological Sciences Journal, Chaos: An Interdisciplinary Journal of Nonlinear Science, Meteorological Applications.
 
 
 <ins> Conference Publications<ins>
